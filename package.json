@@ -14,7 +14,15 @@
   "author": "Leeynyker",
   "license": "MIT",
   "bin": {
-    "random-mssg": "./bin/global.js"
+    "random-mssg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leeynyker/random-messages_leeynyker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Leeynyker/random-messages_leeynyker/issues"
+  },
+  "homepage": "https://github.com/Leeynyker/random-messages_leeynyker#readme"
 }
